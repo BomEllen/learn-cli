@@ -8,5 +8,6 @@
 - restore
 - branch
 - switch
+- merge
 
 - 나 혼자 연습 1
